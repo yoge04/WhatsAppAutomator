@@ -38,7 +38,8 @@ This project allows you to send automated WhatsApp messages using a simple web i
 3. Install the dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install django==5.1.1 pywhatkit==5.4
+
    ```
 
 4. Run the Django development server:
